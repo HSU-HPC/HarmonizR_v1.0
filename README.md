@@ -11,11 +11,11 @@ This package has been published originally in a [different repository](https://g
 
 1. Download this package. While having [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html) installed, run `devtools::install("HarmonizR")` within the HarmonizR package.
 
-2. The package can be installed directly from GitHub via the command devtools::install_github(“SimonSchlumbohm/HarmonizR/HarmonizR”).
+2. The package can be installed directly from GitHub via the command `devtools::install_github("SimonSchlumbohm/HarmonizR/HarmonizR")`.
 
 
 ## Usage
-Include `library(HarmonizR)` in your R script and execute it with your data and batch description files as demonstrated with the example files `harmonizR(“murine_medulloblastoma_data.tsv”, “murine_medulloblastoma_description.csv”)`. 
+Include `library(HarmonizR)` in your R script and execute it with your data and batch description files as demonstrated with the example files `harmonizR("murine_medulloblastoma_data.tsv", "murine_medulloblastoma_description.csv")`. 
 -> files are found in HarmonizR_v1.0/inst/
 
 
