@@ -7,7 +7,7 @@ The implementation is meant to make as much data available as possible with mini
 
 
 ## Installation
-This package has been published originally in a different repository, where it has a stable zenodo ID. It can still be downloaded and installed from here using method 1..
+This package has been published originally in a [different repository](https://github.com/SimonSchlumbohm/HarmonizR), where it has a stable zenodo ID. It can still be downloaded and installed from here using method 1..
 
 1. Download this package. While having [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html) installed, run `devtools::install("HarmonizR")` within the HarmonizR package.
 
